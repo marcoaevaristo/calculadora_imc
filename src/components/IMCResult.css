@@ -1,0 +1,12 @@
+.imc-result {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .imc-message {
+    font-size: 1rem;
+    color: #777;
+  }
+  
